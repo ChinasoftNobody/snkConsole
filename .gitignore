@@ -1,3 +1,4 @@
 /build/
 
 build/classes/init.properties
+/target/
